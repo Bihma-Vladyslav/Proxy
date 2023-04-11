@@ -1,0 +1,14 @@
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.AssemblyReference.cache
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+D:\Visual Studio расположение\source\repos\Proxy\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache
